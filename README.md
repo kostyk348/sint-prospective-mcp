@@ -1,10 +1,19 @@
+<div align="center">
+
+<img src="docs/banner.svg" alt="sint-prospective-mcp banner" width="1000">
+
 # sint-prospective-mcp
+
+### Prospective Memory MCP server — tracks the agent's intentions, suspended tasks, deferred decisions, and context markers across context windows and sessions.
 
 [![Release](https://img.shields.io/github/v/release/kostyk348/sint-prospective-mcp?sort=semver&color=blue)](https://github.com/kostyk348/sint-prospective-mcp/releases)
 [![License](https://img.shields.io/badge/license-Apache-2.0-green)](https://github.com/kostyk348/sint-prospective-mcp/blob/main/LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/kostyk348/sint-prospective-mcp?branch=main)](https://github.com/kostyk348/sint-prospective-mcp/commits/main)
 
-**Prospective Memory** MCP server — tracks the agent's intentions, suspended tasks, deferred decisions, and context markers across context windows and sessions.
+</div>
+
+---
+
 
 ## Tools
 
